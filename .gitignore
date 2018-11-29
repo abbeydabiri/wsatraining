@@ -1,0 +1,15 @@
+.DS_Store
+logger/
+public.pem
+private.pem
+AVODA.aar
+AVODA-sources.jar
+wsatraining_mac.app
+bolt.db
+
+AVODAH-sources.jar
+AVODAH.aar
+wsatraining_mac.app
+bolt.s3db
+WSATRAINING-sources.jar 
+WSATRAINING.aar
